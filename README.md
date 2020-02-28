@@ -1,3 +1,7 @@
+# WARNING #
+## this is archived repo. please, use the new one [ergo](https://github.com/halturin/ergo)
+
+
 # Ergonode #
 
 Implementation of Erlang/OTP node in Go
